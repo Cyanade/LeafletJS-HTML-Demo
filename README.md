@@ -7,7 +7,7 @@ An example project showcasing the integration of LeafletJS library into HTML to 
 To use this demo, follow the steps below:
 
 1. Clone the repository to your local machine using the following command:
-`git clone https://github.com/your-username/LeafletJS-HTML-Demo.git`
+`git clone https://github.com/Cyanade1/LeafletJS-HTML-Demo.git`
 
 
 2. Open the `index.html` file in a web browser.
